@@ -1,0 +1,22 @@
+{
+  "name": "expressionevaluator",
+  "version": "1.0.0",
+  "description": "Scripts capable of taking as input a logical or arithmetic expression and through a function to be able to evaluate the expression and return a false, true, error or next result according to the expression that it evaluated.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chuckbot/expressionEvaluator.git"
+  },
+  "author": "Carlos Garcia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chuckbot/expressionEvaluator/issues"
+  },
+  "homepage": "https://github.com/chuckbot/expressionEvaluator#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
