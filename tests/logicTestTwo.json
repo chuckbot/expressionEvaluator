@@ -1,0 +1,12 @@
+{
+	"expression": "((age) >= 18)",
+	"save": "adult",
+	"transitions": {
+		"isTrue": 15,
+		"isFalse": 23,
+		"isError": 45
+	},
+	"context": {
+		"age": 15
+	}
+}

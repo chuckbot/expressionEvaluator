@@ -1,0 +1,9 @@
+{
+	"expression": "(10/2)",
+	"save": "result",
+	"transitions": {
+		"next": 25,
+		"error": 50
+	},
+	"context": {}
+}

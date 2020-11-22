@@ -1,0 +1,11 @@
+{
+	"expression": "value/(99**2)",
+	"save": "result",
+	"transitions": {
+		"next": 1,
+		"error": 2
+	},
+	"context": {
+		"value": 180
+	}
+}

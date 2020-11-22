@@ -1,0 +1,11 @@
+{
+	"expression": "(str/2)",
+	"save": "result",
+	"transitions": {
+		"next": 101,
+		"error": 102
+	},
+	"context": {
+		"str": "string-value"
+	}
+}
